@@ -252,7 +252,7 @@
         <dependency>
             <groupId>org.springframework.data</groupId>
             <artifactId>spring-data-redis</artifactId>
-            <version>1.8.6.RELEASE</version>
+            <version>2.5.1</version>
             <scope>provided</scope>
             <optional>true</optional>
         </dependency>
@@ -336,7 +336,7 @@
         <dependency>
             <groupId>org.jacoco</groupId>
             <artifactId>jacoco-maven-plugin</artifactId>
-            <version>0.7.6.201602180812</version>
+            <version>0.8.8</version>
             <scope>provided</scope>
         </dependency>
 
